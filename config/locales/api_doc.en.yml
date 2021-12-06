@@ -1,0 +1,10 @@
+en:
+  api_doc:
+    company_name: "Your Company Name"
+    page:
+      request: 
+        header: "Sample Request"
+      response:
+        header: "Sample Response"
+      roles: "Anyone can performed this action."
+      authentication: "No"
