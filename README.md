@@ -1,4 +1,4 @@
-# Backend Test Project - Job Board
+Job Board
 
 Your task is to implement a simple Job Board backend API. Detailed specifications for the test project are provided below. We estimate that you will not need more than a single weekend at relaxed coding speed to implement it.
 
